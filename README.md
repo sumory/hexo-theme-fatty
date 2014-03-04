@@ -14,8 +14,6 @@ Download the zip file, unzip it and modify `theme` in `_config.yml` to `fatty`.
 
 ## Config
 
-Default config:
-
 ``` yaml
 menu:
   博客: /
