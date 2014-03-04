@@ -1,0 +1,53 @@
+
+menu:
+  博客: /
+  存档: /archives
+  项目: /projects
+  关于: /about
+
+sidebar: right
+widgets:
+- search
+- recent_posts
+- category
+- tag
+
+
+excerpt_link: Read More
+
+twitter:
+  username:
+  show_replies: false
+  tweet_count: 5
+
+addthis:
+  enable: true
+  pubid:
+  facebook:
+  twitter:
+  google: true
+  pinterest:
+
+fancybox: true
+
+google_analytics:
+rss:
+
+comment_provider: duoshuo
+
+# Duoshuo comment
+duoshuo:
+  short_name: sumory
+
+society:
+  enable: true
+  github: https://github.com/sumory
+  weibo: http://weibo.com/mytreas
+  google_plug: http://www.google.com
+
+#About Page
+about:
+  name:
+
+auto_change:
+  emable: true
