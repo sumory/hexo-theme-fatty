@@ -1,12 +1,10 @@
 # fatty
 
-Hexo主题fatty
-
-基于[writing](https://github.com/yunlzheng/hexo-themes)主题
+Hexo主题fatty, 基于[writing](https://github.com/yunlzheng/hexo-themes)主题
 
 ## Demo
 
-![screenshot](https://raw.github.com/sumory/hexo-theme-fatty/release/hexo-theme-fatty/source/css/img/demo.png)
+![screenshot](https://raw.github.com/sumory/hexo-theme-fatty/master/source/css/img/demo.png)
 
 
 ## Install
@@ -67,5 +65,5 @@ about:
 - **fancybox** - Enable [Fancybox]
 - **google_analytics** - Google Analytics ID
 - **rss** - RSS subscription link (change if using Feedburner)
--**duoshuo**: 国内还是用多说来的比较稳定
-  -**short_name**: 在多说注册的short_name 
+- **duoshuo**: 国内还是用多说来的比较稳定
+- **short_name**: 在多说注册的short_name 
